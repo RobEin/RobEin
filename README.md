@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Welcome!
 
-<!--
-**RobEin/RobEin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming language design — especially creating clear, expressive syntax and transforming code using ANTLR4 and Python.
 
-Here are some ideas to get you started:
+### 🔧 What I do:
+- Design and implement custom grammars using **ANTLR4**
+- Working on a transpiler that converts my own experimental language into C#
+- Explore **code analysis and transformation**
+- Automate tasks with **AutoHotkey**, **VBA**, and scripting
+- Work with legacy languages such as **VB6**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interests:
+- Programming language theory & design
+- Code parsing and transformation
+- Static analysis tools
+- Modernizing legacy systems
+
+---
+
+🔗 **GitHub repositories**: [RobEin](https://github.com/RobEin?tab=repositories)
